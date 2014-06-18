@@ -1,0 +1,26 @@
+.btn {
+    margin-bottom: 4px;
+    margin-right: 4px;
+    width: 125px;
+}
+
+.btn-override:hover, .btn-override:visited, .btn-override:active {
+    cursor: inherit;
+    box-shadow: none;
+}
+
+.align-row {
+    margin-left: 0px;
+    margin-right: 0px;
+}
+
+.btn-override em {
+    display: block;
+    font-size: 15px;
+    font-style: normal;
+    color: rgba(255,255,255,0.6);
+}
+
+body {
+    margin-bottom: 16px;
+}
